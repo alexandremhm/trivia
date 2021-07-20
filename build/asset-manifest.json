@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/trivia/static/css/main.5b68fe12.chunk.css",
+    "main.js": "/trivia/static/js/main.2fc53561.chunk.js",
+    "main.js.map": "/trivia/static/js/main.2fc53561.chunk.js.map",
+    "runtime-main.js": "/trivia/static/js/runtime-main.6e763e45.js",
+    "runtime-main.js.map": "/trivia/static/js/runtime-main.6e763e45.js.map",
+    "static/js/2.3940a305.chunk.js": "/trivia/static/js/2.3940a305.chunk.js",
+    "static/js/2.3940a305.chunk.js.map": "/trivia/static/js/2.3940a305.chunk.js.map",
+    "index.html": "/trivia/index.html",
+    "precache-manifest.e4f6dcfd3b858b5233d322a6a4d1ea8b.js": "/trivia/precache-manifest.e4f6dcfd3b858b5233d322a6a4d1ea8b.js",
+    "service-worker.js": "/trivia/service-worker.js",
+    "static/css/main.5b68fe12.chunk.css.map": "/trivia/static/css/main.5b68fe12.chunk.css.map",
+    "static/js/2.3940a305.chunk.js.LICENSE": "/trivia/static/js/2.3940a305.chunk.js.LICENSE",
+    "static/media/pablita-530.png": "/trivia/static/media/pablita-530.245ec5e3.png",
+    "static/media/trivia.png": "/trivia/static/media/trivia.466d153e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e763e45.js",
+    "static/js/2.3940a305.chunk.js",
+    "static/css/main.5b68fe12.chunk.css",
+    "static/js/main.2fc53561.chunk.js"
+  ]
+}
