@@ -8,12 +8,7 @@ class Configuracao extends Component {
     return (
       <div className="configuration-container">
         <div>
-          <p data-testid="settings-title">Configurações</p>
-          <img
-            className="construction-img"
-            src={ constructionImage }
-            alt="Em construção"
-          />
+          <p data-testid="settings-title">Configurações</p>          
         </div>
         <Link
           to="/"
