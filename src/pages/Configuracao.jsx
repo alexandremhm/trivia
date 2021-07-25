@@ -19,7 +19,6 @@ class Configuracao extends Component {
           to="/"
           className="button question-btn"
           data-testid="btn-go-home"
-          basename="/trivia"
         >
           Voltar para a tela inical
         </Link>
