@@ -1,0 +1,17 @@
+.footer-container a{
+  padding: 10px;
+  color: white;
+  font-size: 20px;
+}
+
+.footer-container h4 {
+  color: white;
+  font-size: 20px;
+  
+}
+
+.footer {
+  background: rgb(109,54,247);
+  background: linear-gradient(0deg, rgba(109,54,247,1) 7%, rgba(47,24,107,1) 92%);
+  max-height: 50px;
+}

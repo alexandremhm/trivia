@@ -63,10 +63,6 @@ class Login extends Component {
     }
   }
 
-  redirectSettings() {
-    window.location = 'configuracao';
-  }
-
   render() {
     const { disabled, ready } = this.state;
     return (
@@ -81,15 +77,7 @@ class Login extends Component {
             className="login-btn button"
           >
             Jogar
-          </button>
-          <button
-            type="button"
-            data-testid="btn-settings"
-            onClick={ () => this.redirectSettings() }
-            className="login-btn button"
-          >
-            Configurações
-          </button>
+          </button>          
         </form>
         { ready && <Redirect to="/game" />}
       </div>
